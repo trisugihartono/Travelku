@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39291339402",
+    "firebase_url": "https://travelku-84f37.firebaseio.com",
+    "project_id": "travelku-84f37",
+    "storage_bucket": "travelku-84f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39291339402:android:f7fcc4806b79fe3fb06373",
+        "android_client_info": {
+          "package_name": "com.example.travelku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39291339402-6u5pbcpp4fflguq6uf3f0bf1bvbgr0rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelku",
+            "certificate_hash": "eb9d2aa69303b8286985b5d1fcfe385ee9922fc2"
+          }
+        },
+        {
+          "client_id": "39291339402-a16lhj9trtishq2iekmhin8uhi9uq8jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC93e1SdFmqPZMXb78Nv-l4SHAtzYVsZjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39291339402-a16lhj9trtishq2iekmhin8uhi9uq8jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
